@@ -13,23 +13,23 @@ end
 def using_reverse(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   reverse_var = array.reverse()
-  return sort_var
+  return reverse_var
 end
 
 def using_first(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   first_var = array.first()
-  return sort_var
+  return first_var
 end
 
 def using_last(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   last_var = array.last()
-  return sort_var
+  return last_var
 end
 
 def using_size(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   size_var = array.size()
-  return sort_var
+  return size_var
 end
