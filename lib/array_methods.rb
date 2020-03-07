@@ -17,7 +17,9 @@ def using_reverse(array)
 end
 
 def using_first(array)
-
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  sort_var = array.first()
+  return sort_var
 end
 
 def using_last(array)
